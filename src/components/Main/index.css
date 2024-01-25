@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main {
+  width: 1440px;
+  height: 930px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  background-image: url(./Group.svg);
+  background-position: 700px 100px;
+  background-repeat: no-repeat;
+  /* justify-content: space-between; */
+}
+
+.title {
+  margin-top: 241px;
+}
+.title h3 {
+  color: #fff;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+
+  width: 575px;
+  margin-bottom: 24px;
+}
+.title p {
+  color: #fff;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 50px;
+}
+.img {
+  width: 700px;
+  background-image: url(./Girl.svg);
+  background-repeat: no-repeat;
+  background-position: 210px 180px;
+}

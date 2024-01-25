@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.bgimg {
+  padding-right: 100px;
+  padding-left: 100px;
+  background-image: url(./assets/Rectangle.svg);
+
+  background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+  background-size: cover;
+}
